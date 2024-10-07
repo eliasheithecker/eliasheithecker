@@ -1,3 +1,1 @@
 # Elias Heithecker
-
-Stay tuned for [more](https://heithecker.net) ...
